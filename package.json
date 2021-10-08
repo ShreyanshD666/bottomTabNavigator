@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+      "expo-constants": "~9.2.0",
+      "react-navigation": "4.4.1",
+      "react-native-paper": "3.6.0",
+      "react-native-screens": "~2.10.1",
+      "react-navigation-tabs": "*",
+      "react-native-reanimated": "~1.13.0",
+      "@react-navigation/native": "^3.8.1",
+      "react-native-gesture-handler": "~1.7.0"
+    }
+  }
